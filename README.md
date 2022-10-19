@@ -15,6 +15,9 @@
 * script 脚本类型
 
 
+## 访问的站点
+
+* https://appbir.github.io/appbir_frontend_source/
 
 
 
