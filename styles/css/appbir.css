@@ -1,0 +1,67 @@
+/* 组要的背景颜色 */
+
+.a-body {
+    margin: 0;
+    min-height: 100vh;
+    color: white;
+}
+
+.a-bg {
+    background-image: linear-gradient(156deg, #132b42, #1a4056, #6439d2, #565145, #132b42, #1a4056, #6439d2, #FFBA28)
+}
+
+/* ---------------------通用的工具类-------------------------------------------------------- */
+/* 水平剧中显示 */
+.a-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 垂直居中显示 */
+.a-v-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* //超出...显示 */
+.a-ellipsis {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/* 显示 */
+.a-show {
+    visibility: visible;
+}
+
+/* 隐藏 */
+.a-hide {
+    visibility: hidden;
+}
+
+
+/* ----------------------------------常见元素样式-------------------------------------------- */
+/* a标签 */
+.appbir a:link {
+    color: green;
+    text-decoration: none;
+}
+
+.appbir a:hover {
+    color: blue;
+    text-decoration: dashed;
+}
+
+.appbir a:visited {
+    color: yellow;
+}
+
+.appbir a:active {
+    color: #6439d2;
+    text-decoration: dotted;
+}
