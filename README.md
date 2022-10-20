@@ -2,11 +2,7 @@
  静态资源 供web服务启动 便捷访问
 
 
-## 访问地址
 
-```
-appbir.github.io/appbir-resource-statics/
-```
 
 ## 使用注意
  *  当在外放访问时候
@@ -22,6 +18,10 @@ appbir.github.io/appbir-resource-statics/
 
 
 
+## git地址
 
+```
+https://appbir.github.io/appbir-resource-statics/
+```
 
 
